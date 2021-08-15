@@ -8,7 +8,7 @@ client.once('ready', () => {
 });
 
 const myEmbed = new Discord.MessageEmbed()
-	.setColor('#0099ff')
+	.setColor('#0099ff') 
     .setAuthor('Bot dari segala bot', 'https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/ee/Magmasaur_Egg_%28Genesis_Part_1%29.png/revision/latest/scale-to-width-down/228?cb=20200226185041', '')
 	
 
